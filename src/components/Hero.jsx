@@ -173,7 +173,7 @@ export default function Hero({ name, roles }) {
           animate={{ opacity: 1, y: 0 }}
           transition={{ delay: 0.8 }}
         >
-          Passionate university student exploring Web Development, AI, IoT, and
+          Passionate polytechnic student exploring Web Development, AI, IoT, and
           Robotics. A curious learner dedicated to creating innovative,
           impactful solutions.
         </motion.p>
