@@ -22,7 +22,7 @@ export default function Portfolio() {
       link: 'https://www.esbozz.web.id',
       description: 'A dynamic website for my school\'s English Society extracurricular program, created to help students access updates and info about English Society-Bozz anytime, anywhere.',
       labels: ['Svelte', 'TypeScript', 'Express', 'Node.js', 'TailwindCSS', 'PostgreSQL'],
-      sourceLink: 'https://github.com/raulmaulidhino-dev/english-society-bozz'
+      sourceLink: 'https://github.com/rauldhinoo/english-society-bozz'
     },
     {
       preview: HomifyPreview,
@@ -31,7 +31,7 @@ export default function Portfolio() {
       link: 'https://homify-web.vercel.app',
       description: 'Homify is a prototype smart home website. This single page website is created by me and my friend, Fathur (@siddiqfathurahman) as a submission for INSYFEST 2024 Web Development Competition.',
       labels: ['React', 'JavaScript', 'TailwindCSS'],
-      sourceLink: 'https://github.com/raulmaulidhino-dev/homify'
+      sourceLink: 'https://github.com/rauldhinoo/homify'
     },
     {
       preview: CustomStylePreview,
@@ -40,7 +40,7 @@ export default function Portfolio() {
       link: 'https://cstmstyle-landing-page.vercel.app',
       description: 'Custom Style is an Indonesian small and medium-sized garment enterprise (UMKM) that specializes in producing high-quality custom clothing, ranging from office uniforms to t-shirts and jackets. In this project, I share my own version of landing page design ideas, inspired by the official Custom Style website.',
       labels: ['Astro', 'Svelte', 'TailwindCSS'],
-      sourceLink: 'https://github.com/raulmaulidhino-dev/Custom-Style-landing-page'
+      sourceLink: 'https://github.com/rauldhinoo/Custom-Style-landing-page'
     },
     {
       preview: AlIstiqomahMosquePreview,
@@ -49,7 +49,7 @@ export default function Portfolio() {
       link: 'https://al-istiqomah-mosque.netlify.app',
       description: 'A responsive and modern static landing page built using HTML, CSS, TailwindCSS, and optionally a little JavaScript. Designed to showcase Al-Istiqomah Mosque with clean visuals and smooth user experience.',
       labels: ['HTML', 'CSS', 'TailwindCSS', 'JavaScript'],
-      sourceLink: 'https://github.com/raulmaulidhino-dev/al-istiqomah-mosque-landing-page'
+      sourceLink: 'https://github.com/rauldhinoo/al-istiqomah-mosque-landing-page'
     },
     {
       preview: TravelAgentkuPreview,
@@ -58,7 +58,7 @@ export default function Portfolio() {
       link: 'https://travelagentku-landing-page.vercel.app',
       description: 'A demo mini travelling website project, built with HTML, CSS, JavaScript and ScrollReveal (JavaScript Library for Scroll Animation).',
       labels: ['HTML', 'CSS', 'JavaScript'],
-      sourceLink: 'https://github.com/raulmaulidhino-dev/travelagentku-landing-page',
+      sourceLink: 'https://github.com/rauldhinoo/travelagentku-landing-page',
     },
     {
       preview: KBCQuizzesGamePreview,
@@ -67,7 +67,7 @@ export default function Portfolio() {
       link: 'https://kbc-quizzes-game.vercel.app',
       description: 'A simple KBC quizzes mini game website (Self-Project)',
       labels: ['HTML', 'CSS', 'JavaScript'],
-      sourceLink: 'https://github.com/raulmaulidhino-dev/kbc-quizzes-game'
+      sourceLink: 'https://github.com/rauldhinoo/kbc-quizzes-game'
     },
   ];
 
